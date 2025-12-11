@@ -4,7 +4,7 @@ This project implements unsupervised machine learning for customer segmentation 
 
 ## Project Overview
 
-Designed for Google Colab, the notebook processes customer datasets with pandas and scikit-learn to perform clustering analysis. It uses elbow method and silhouette scores to determine optimal clusters, visualizing segments through scatter plots and pairplots.
+The notebook processes customer datasets with pandas and scikit-learn to perform clustering analysis. It uses elbow method and silhouette scores to determine optimal clusters, visualizing segments through scatter plots and pairplots.
 
 ## Core Analysis Workflow
 
